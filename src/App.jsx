@@ -54,9 +54,10 @@ function App() {
 
   return (
     <div className="App">
-      <h1 style={{ textAlign: "center", color: "#fff" , paddingTop :200 }}>
+      <h1>
         Cloud Computing Practical - 5
       </h1>
+      <h2>Rajdeep & Jainam</h2>
       <div className="form-container">
         <input
           placeholder="Name..."
